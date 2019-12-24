@@ -1,2 +1,2 @@
 # ExampleStudent
-an example student repo with examples wiki entries.
+https://github.com/bcb420-2020/ExampleStudent/wiki/ExampleStudent_mainpage
